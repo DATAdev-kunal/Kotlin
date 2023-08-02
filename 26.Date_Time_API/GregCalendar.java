@@ -15,6 +15,6 @@ public class GregCalendar {
         gc.setTimeZone(TimeZone.getTimeZone("America/New_York"));
 
         System.out.println(tz.getID());
-
+        
     }
 }
