@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "26.Date_Time_API",
-        "25.Java_generics"
+        "25.Java_generics",
+        "."
     ]
 }
