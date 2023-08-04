@@ -1,7 +1,31 @@
 {
     "java.project.sourcePaths": [
+        "9.Arrays",
+        "8.Loops",
+        "7.Conditional Statements",
+        "6.String Class and Printing",
+        "5.Operators and Expressions",
+        "27.Network_Programming",
         "26.Date_Time_API",
-        "25.Java_generics",
-        "."
-    ]
+        "25.Collection_Framework",
+        "24.Java_generics",
+        "23.Java_IO_Streams",
+        "22.LambdaExpression",
+        "21.Annotations_and_JavaDoc",
+        "20.JavaLangPackage",
+        "2.Data Types",
+        "19.Multithreading",
+        "18.Exception Handling",
+        "17.Packages",
+        "16.Static & Final",
+        "15.InnerClasses",
+        "14.Interfaces",
+        "13.AbstractClasses",
+        "12.Inheritance",
+        "11.OOPS",
+        "10.Methods",
+        "1.Introduction",
+        "28.JDBC"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
 }
