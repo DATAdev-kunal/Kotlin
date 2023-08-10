@@ -10,7 +10,7 @@ class Slide extends JFrame implements ChangeListener
     JSlider s;
     JPanel p1;
     JProgressBar pb;
-    int x=50;
+    int x=30;
 
     public Slide()
     {
