@@ -16,6 +16,7 @@ public class ap {
       {
          term=a+ (i*d);
          System.out.print(term+" ");
+      
       }
    }
 }

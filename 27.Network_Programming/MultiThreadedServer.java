@@ -55,7 +55,7 @@ public class MultiThreadedServer extends Thread {
 class Clients
 {
     public static void main(String[] args)throws Exception {
-        Socket skt=new Socket("172.16.200.247", 2000);
+        Socket skt=new Socket("localhost", 2000);
 
         BufferedReader keyb=new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br=new BufferedReader(new InputStreamReader(skt.getInputStream()));

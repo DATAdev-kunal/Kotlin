@@ -16,9 +16,9 @@ class Dir extends JFrame implements TreeSelectionListener
     {
         super("My Directory");
 
-        DefaultMutableTreeNode root=new DefaultMutableTreeNode("/home/kunal/Java_se_learning");
+        DefaultMutableTreeNode root=new DefaultMutableTreeNode("/home/kunal/JAVA world/Java_se_learning");
 
-        File f=new File("/home/kunal/Java_se_learning");
+        File f=new File("/home/kunal/JAVA world/Java_se_learning/");
 
         for(File x:f.listFiles())
         {

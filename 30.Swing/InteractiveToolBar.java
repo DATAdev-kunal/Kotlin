@@ -79,7 +79,8 @@ class Bar extends JFrame implements ActionListener
         }
         else
         {
-            Color col=new JColorChooser().showDialog(this, "Font Colour",Color.red);
+            new JColorChooser();
+            Color col=JColorChooser.showDialog(this, "Font Colour",Color.red);
             ta.setForeground(col);
 
         }

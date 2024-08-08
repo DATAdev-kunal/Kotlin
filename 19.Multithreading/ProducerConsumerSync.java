@@ -10,7 +10,7 @@ class Sync
         this.value = value;
         flag=false;
         notify();
-        try{Thread.sleep(1000);}catch(Exception err){}
+        try{Thread.sleep(800);}catch(Exception err){}
     }
    
     synchronized public int get() 
@@ -21,7 +21,7 @@ class Sync
         x=value;
         flag=true;
         notify();
-        try{Thread.sleep(1000);}catch(Exception err){}
+        try{Thread.sleep(800);}catch(Exception err){}
         return x;
     }
 

@@ -28,7 +28,6 @@ public class ReverseEchoServer {
                 ps.println(msg);
             }
             while(!msg.equals("dne"));
-
             
         }catch(Exception e){}
     }
@@ -38,7 +37,7 @@ class Client
 {
     public static void main(String[] args)throws Exception {
 
-        Socket skt=new Socket("172.16.200.247", 2000);
+        Socket skt=new Socket("172.16.178.103", 2000);
         
         BufferedReader keb=new BufferedReader(new InputStreamReader(System.in));
         BufferedReader br=new BufferedReader(new InputStreamReader(skt.getInputStream()));

@@ -5,6 +5,7 @@
         "7.Conditional Statements",
         "6.String Class and Printing",
         "5.Operators and Expressions",
+        "30.Swing",
         "29.AWT",
         "28.JDBC",
         "27.Network_Programming",
@@ -27,7 +28,7 @@
         "11.OOPS",
         "10.Methods",
         "1.Introduction",
-        "30.Swing"
+        "31.JavaFX"
     ],
     "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
 }

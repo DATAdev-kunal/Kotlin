@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e43a01-9cb0-4a5d-a488-66de01936236" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17.Packages/AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17.Packages/AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19.Multithreading/ProducerConsumerSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/../19.Multithreading/ProducerConsumerSync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19.Multithreading/Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/../19.Multithreading/Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27.Network_Programming/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../27.Network_Programming/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27.Network_Programming/Clients.class" beforeDir="false" afterPath="$PROJECT_DIR$/../27.Network_Programming/Clients.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27.Network_Programming/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../27.Network_Programming/MultiThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27.Network_Programming/ReverseEchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../27.Network_Programming/ReverseEchoServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27.Network_Programming/ReverseEchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../27.Network_Programming/ReverseEchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29.AWT/ColorPalette.class" beforeDir="false" afterPath="$PROJECT_DIR$/../29.AWT/ColorPalette.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29.AWT/Palette.class" beforeDir="false" afterPath="$PROJECT_DIR$/../29.AWT/Palette.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29.AWT/SelectFrame$SelectionApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../29.AWT/SelectFrame$SelectionApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29.AWT/SelectFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../29.AWT/SelectFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29.AWT/SelectionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../29.AWT/SelectionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.Swing/Dir.class" beforeDir="false" afterPath="$PROJECT_DIR$/../30.Swing/Dir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.Swing/InteractiveToolBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../30.Swing/InteractiveToolBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.Swing/TreeStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../30.Swing/TreeStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.String Class and Printing/formatSpecifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6.String Class and Printing/formatSpecifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.Loops/ap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../8.Loops/ap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.Loops/fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8.Loops/fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.Loops/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../8.Loops/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.Loops/reverseNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8.Loops/reverseNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.Arrays/rightRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../9.Arrays/rightRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.Arrays/rightRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../9.Arrays/rightRotation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2g9sO1ZyG8Rxuxg24Vj193HGueE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e43a01-9cb0-4a5d-a488-66de01936236" name="Changes" comment="" />
+      <created>1715121091284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715121091284</updated>
+    </task>
+    <servers />
+  </component>
+</project>

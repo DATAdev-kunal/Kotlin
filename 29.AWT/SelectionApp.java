@@ -66,6 +66,15 @@ class SelectFrame extends Frame implements ActionListener, ItemListener
             
             ta.setText(str);
 
+
+    addWindowListener(new WindowAdapter() {
+
+            public void windowClosing(WindowEvent we)
+            {
+                System.exit(0);
+            }
+        });
+
 }
 
 public class SelectionApp {

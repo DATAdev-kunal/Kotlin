@@ -22,9 +22,5 @@ public class formatSpecifiers {
       System.out.printf("Yup %(d %f %c \n\n",t,y,z);
       System.out.printf("Yup %+d %f %c \n\n",t,y,z);
       System.out.printf("Yup %od %f %c \n\n",x,y,z);
-
-
-
-
    }
 }

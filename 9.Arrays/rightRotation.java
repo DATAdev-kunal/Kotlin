@@ -22,10 +22,10 @@ public class rightRotation {
         System.out.println("");
 
         //rotation
-        
+        int k =3;
         temp=arr[arr.length-1];
         System.out.println("right rotated: ");
-        for(int i=arr.length-1;i>0;i--)
+        for(int i=arr.length-1;i>0;i--;k--)
         {
             arr[i]=arr[i-1];
         }
@@ -34,4 +34,5 @@ public class rightRotation {
         for(int x:arr)
             System.out.print(x+" ");
     }
+    
 }
